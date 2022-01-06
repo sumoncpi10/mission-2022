@@ -23,6 +23,9 @@ section{
 p{
     text-align: justify;
 }
+p a{
+    text-decoration: none;
+}
 span{
     color: rgb(236, 116, 11);
 }
