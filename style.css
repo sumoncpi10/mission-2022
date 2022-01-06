@@ -1,0 +1,102 @@
+body{
+    margin: 50px 100px;
+}
+section{
+    display: flex;
+    font-family: "Poppins", Georgia, 'Times New Roman', Times, serif;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 60%;
+    vertical-align: baseline;
+    padding-left: 100px;
+    
+}
+.half-width h1{
+    border-left: 5px solid #FF5959;
+    border-radius: 5px;
+    font-size: 50px;
+    padding-left: 10px;
+}
+p{
+    text-align: justify;
+}
+span{
+    color: rgb(236, 116, 11);
+}
+ button{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px ;
+    background-image: linear-gradient(#FF5959, #FF5959);
+    color: white;
+    border:none;
+}
+h2{
+    text-align: center ;
+    font-size: 40px;
+    padding-top: 40px;
+}
+.one-third-width{
+    width: 33.33%;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    border-radius: 10px;
+    
+}
+.one-third-width img{
+    width: 50%;
+    
+}
+.mission{
+    background-color: #EDF5F6;
+}
+.vission{
+    background-color: #FFEEEE;
+}
+.goals{
+    background-color: #FFF4D6;
+}
+.develop{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+    background-position: left;
+    padding: 35px 50px;
+}
+h3{
+    font-size: 30px;
+}
+.two-third-width{
+    padding: 40px 5px;
+    width: 66%;
+    padding: 10px 20px;
+    padding-left: 30px;
+}
+#img-blog{
+    width: 350px;
+}
+.global-community{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+    background-position: right bottom;
+    padding: 25px 50px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    align-items: center;
+    display: grid;
+}
+
+h4{
+    font-size: 30px;
+}
+h4 span{
+    color: #A73D41;
+}
+
